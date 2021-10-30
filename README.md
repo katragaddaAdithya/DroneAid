@@ -1,10 +1,10 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Community&message=%23droneaid&color=blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
 
-# <img src="img/droneaid-logo.png" height="100" alt="DroneAid logo">
+# <img src="img/droneaid-logo.png" height="100" alt="DroneAid logo"> 
 
 DroneAid uses machine learning to detect calls for help on the ground placed by those in need. At the heart of DroneAid is a *Symbol Language* that is used to train a visual recognition model. That model analyzes video from a drone to detect and count specific images. A dashboard can be used to plot those locations on a map and initiate a response.
 
-## An aerial scout for first responders
+## An aerial scout for first responders:
 
 DroneAid consists of several components:
 1. The DroneAid Symbol Language that represents need and quantities
